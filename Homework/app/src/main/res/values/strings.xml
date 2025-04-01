@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework</string>
+    <string name="credit_card">Credit Card</string>
+    <string name="total">TOTAL</string>
+    <string name="get_otp">Get OTP to verify information</string>
+    <string name="get_otp_button">Get OTP</string>
+    <string name="pay_now">Pay Now</string>
+</resources>

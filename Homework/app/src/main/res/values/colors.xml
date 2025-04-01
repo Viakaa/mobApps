@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_color">#3629B7</color>
+    <color name="secondary_color">#FF4267</color>
+    <color name="tertiary_color">#FFAF2A</color>
+    <color name="quaternary_color">#0890FE</color>
+    <color name="text_color">#000000</color>
+    <color name="red_color">#FF0000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="background_color">#F5F5F5</color>
+</resources>
